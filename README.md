@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BrianMapoma
+- 👋 Hi, I’m @Brian Mapoma
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on ...
